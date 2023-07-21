@@ -26,9 +26,9 @@
 ### Проект 1
 **Код:** [`video_games_sales.ipynb`](ссылка)    
 **Описание:** 
-**Навыки:** data cleaning, data analysis, descriptive statistics, central limit theorem, hypothesis testing, data visualization.  
-**Технологии:** Python, Pandas, Numpy, Scipy Stats, Seaborn, Matplotlib.  
-**Результаты:** Review of the global and regional video games markets, data-based business recommendations.  
+**Навыки:**  
+**Технологии:**  
+**Результаты:** 
 
 ## Контактная информация
 - LinkedIn:  in process
