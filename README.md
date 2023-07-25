@@ -19,7 +19,7 @@
 Здесь вы можете найти проекты, выполненные мной во время обучения и практики.
 <br>
 - [Учебные кейсы](https://github.com/EgorLinev/StudyProjects)
-	+ [Проект 1](https://github.com/EgorLinev/StudyProjects/Modeling%20changes%20in%20student%20balances)
+	+ [SQL](https://github.com/EgorLinev/StudyProjects/tree/main/SQL)
    
 
 
