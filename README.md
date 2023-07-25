@@ -19,6 +19,7 @@
 [Здесь](https://github.com/EgorLinev/StudyProjects) вы можете найти проекты, выполненные мной во время обучения и практики.
 <br>
 - [SQL](https://github.com/EgorLinev/StudyProjects/tree/main/SQL)
+      + [BalanceTracking](https://github.com/EgorLinev/StudyProjects/blob/main/SQL/BalanceTracking)
    
 
 
