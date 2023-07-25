@@ -16,10 +16,11 @@
 - Инструменты управления проектами ``Slack``, ``Miro``, ``Jira``
   
 ## Проекты
-[Здесь](https://github.com/EgorLinev/StudyProjects) вы можете найти проекты, выполненные мной во время обучения и практики.
+Здесь вы можете найти проекты, выполненные мной во время обучения и практики.
 <br>
+- [Учебные кейсы](https://github.com/EgorLinev/StudyProjects)
 - [SQL](https://github.com/EgorLinev/StudyProjects/tree/main/SQL)
-      + [BalanceTracking](https://github.com/EgorLinev/StudyProjects/blob/main/SQL/BalanceTracking)
+  + [Отслеживание балансов учеников](https://github.com/EgorLinev/StudyProjects/blob/main/SQL/BalanceTracking)
    
 
 
