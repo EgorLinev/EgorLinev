@@ -18,8 +18,7 @@
 ## Проекты
 Здесь вы можете найти проекты, выполненные мной во время обучения и практики.
 <br>
-- [Учебные кейсы](https://github.com/EgorLinev/StudyProjects)
-	+ [SQL](https://github.com/EgorLinev/StudyProjects/tree/main/SQL)
+- [SQL](https://github.com/EgorLinev/StudyProjects/tree/main/SQL)
    
 
 
