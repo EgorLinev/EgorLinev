@@ -15,7 +15,7 @@
 - Средства визуализации данных: ``PowerBi``
 - Инструменты управления проектами ``Slack``, ``Miro``, ``Jira``
   
-## Проекты
+## [Проекты](https://github.com/EgorLinev/StudyProjects)
 Здесь вы можете найти проекты, выполненные мной во время обучения и практики.
 <br>
 - [SQL](https://github.com/EgorLinev/StudyProjects/tree/main/SQL)
