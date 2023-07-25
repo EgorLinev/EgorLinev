@@ -20,14 +20,8 @@
 <br>
 - [Учебные кейсы](https://github.com/EgorLinev/StudyProjects)
 	+ [Проект 1](https://github.com/EgorLinev/StudyProjects/Modeling%20changes%20in%20student%20balances)
+   
 
-<details><summary>Учебные кейсы</summary>
-
-   1. SQL
-   1. Excel
-   1. Python
-
-</details>
 
  
 ## Контактная информация
