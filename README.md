@@ -18,7 +18,7 @@
 ## Проекты
 Здесь вы можете найти проекты, выполненные мной во время обучения и практики.
 <br>
-- [Учебные проекты](https://github.com/EgorLinev/StudyProjects)
+- [Учебные кейсы](https://github.com/EgorLinev/StudyProjects)
 	+ [Проект 1](https://github.com/EgorLinev/StudyProjects/Modeling%20changes%20in%20student%20balances)
  
 ## Контактная информация
