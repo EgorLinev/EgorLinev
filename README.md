@@ -1,4 +1,4 @@
-# Junior Data Analyst
+# Data Analyst
 
 ## Обо мне 
 
