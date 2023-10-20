@@ -16,9 +16,7 @@
 - Средства визуализации данных: ``PowerBi``, ``Matplotlib``, ``Seaborn``, ``Tableau``
 - Инструменты управления проектами ``Slack``, ``Miro``, ``Jira``
   
-## Проекты
-Этот репозиторий служит для демонстрации моих навыков, а также является платформой для обмена моими проектами и способом отслеживать мой прогресс в вопросах, связанных с аналитикой данных и Data Science.
-<br>
+## Содержание
 - [SQL](https://github.com/EgorLinev/StudyProjects/tree/main/SQL)
   + [Отслеживание балансов учеников](https://github.com/EgorLinev/StudyProjects/blob/main/SQL/BalanceTracking)
   + [sql case 2](https://github.com/EgorLinev/StudyProjects/blob/main/SQL/BalanceTracking)
@@ -29,7 +27,9 @@
   + [A/B Тесты case 1](https://github.com/EgorLinev/StudyProjects/tree/main/SQL)
   + [A/B Тесты case 2](https://github.com/EgorLinev/StudyProjects/tree/main/SQL)
 - [Контактная информация](https://github.com/EgorLinev/StudyProjects/tree/main/SQL)
-   
+ ## Проекты 
+ Этот репозиторий служит для демонстрации моих навыков, а также является платформой для обмена моими проектами и способом отслеживать мой прогресс в вопросах, связанных с аналитикой данных и Data Science.
+<br>
 
 
  
