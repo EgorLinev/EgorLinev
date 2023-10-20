@@ -27,6 +27,6 @@
 
  
 ## Контактная информация
-- LinkedIn:  in process
+- LinkedIn:  www.linkedin.com/in/egorlinev
 - Telegram: [@EgorLinev](https://t.me/EgorLinev)
 - E-mail: gregory.linev@gmail.com
