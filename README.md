@@ -19,9 +19,16 @@
 ## Проекты
 Этот репозиторий служит для демонстрации моих навыков, а также является платформой для обмена моими проектами и способом отслеживать мой прогресс в вопросах, связанных с аналитикой данных и Data Science.
 <br>
-- [Проекты](https://github.com/EgorLinev/StudyProjects)
 - [SQL](https://github.com/EgorLinev/StudyProjects/tree/main/SQL)
   + [Отслеживание балансов учеников](https://github.com/EgorLinev/StudyProjects/blob/main/SQL/BalanceTracking)
+  + [sql case 2](https://github.com/EgorLinev/StudyProjects/blob/main/SQL/BalanceTracking)
+- [Python](https://github.com/EgorLinev/StudyProjects/tree/main/SQL)
+  + [python case 1](https://github.com/EgorLinev/StudyProjects/tree/main/SQL)
+  + [python case 2](https://github.com/EgorLinev/StudyProjects/tree/main/SQL)
+- [A/B Тесты](https://github.com/EgorLinev/StudyProjects/tree/main/SQL)
+  + [A/B Тесты case 1](https://github.com/EgorLinev/StudyProjects/tree/main/SQL)
+  + [A/B Тесты case 2](https://github.com/EgorLinev/StudyProjects/tree/main/SQL)
+- [Контактная информация](https://github.com/EgorLinev/StudyProjects/tree/main/SQL)
    
 
 
