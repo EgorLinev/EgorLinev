@@ -19,14 +19,9 @@
 <br>
 - [SQL](#sql)
   + [Отслеживание балансов учеников](#отслеживание-балансов-учеников)
-  + [sql case 2](https://github.com/EgorLinev/StudyProjects/blob/main/SQL/BalanceTracking)
 - [Python](#python)
   + [python case 1](https://github.com/EgorLinev/StudyProjects/tree/main/SQL)
-  + [python case 2](https://github.com/EgorLinev/StudyProjects/tree/main/SQL)
-- [A/B Тесты](#a/b_тестирование)
-  + [A/B Тесты case 1](https://github.com/EgorLinev/StudyProjects/tree/main/SQL)
-  + [A/B Тесты case 2](https://github.com/EgorLinev/StudyProjects/tree/main/SQL)
-- [Контактная информация](#контактная_информация)
+- [Контактная информация](#контактная-информация)
 
  
  ## Проекты 
@@ -39,22 +34,15 @@
 **Навыки:** SQL, Join, Оконные функции, Агрегатные функции, CTE.  
 **Стек:** PostgreSQL, Excel, Jupyter notebook.  
 **Результаты:** Готовая система, собирающая из сырых данных таблицу с балансами студентов онлайн-университета.  
-
-  ### sql case 2
-**Код:** [`video_games_sales.ipynb`](https://github.com/nktnlx/data_analysis_portfolio/blob/main/video_games_sales.ipynb)    
-**Описание:** The dataset contains 16715 records as of 2016. There is a list of video games with sales (by region), year of release, platform, critics and users score. The project includes the following steps: data loading, data cleaning and preprocessing, filling missing values, EDA (exploratory data analysis), analyzing region based user profiles, measuring statistical factors, hypothesis testing.  
-**Навыки:** data cleaning, data analysis, descriptive statistics, central limit theorem, hypothesis testing, data visualization.  
-**Стек:** Python, Pandas, Numpy, Scipy Stats, Seaborn, Matplotlib.  
-**Результаты:** Review of the global and regional video games markets, data-based business recommendations.  
-  
+ 
 ### Python
 
   ### Python case 1
-**Код:** [`video_games_sales.ipynb`](https://github.com/nktnlx/data_analysis_portfolio/blob/main/video_games_sales.ipynb)    
-**Описание:** The dataset contains 16715 records as of 2016. There is a list of video games with sales (by region), year of release, platform, critics and users score. The project includes the following steps: data loading, data cleaning and preprocessing, filling missing values, EDA (exploratory data analysis), analyzing region based user profiles, measuring statistical factors, hypothesis testing.  
-**Навыки:** data cleaning, data analysis, descriptive statistics, central limit theorem, hypothesis testing, data visualization.  
+**Код:**    
+**Описание:**   
+**Навыки:**
 **Стек:** Python, Pandas, Numpy, Scipy Stats, Seaborn, Matplotlib.  
-**Результаты:** Review of the global and regional video games markets, data-based business recommendations.  
+**Результаты:**   
 
  
 ## Контактная информация
