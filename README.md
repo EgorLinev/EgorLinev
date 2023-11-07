@@ -19,8 +19,8 @@
 <br>
 - [SQL](#sql)
   + [Отслеживание балансов учеников](#отслеживание-балансов-учеников)
-- [A/B testing](#A/Btesting)
-  + [Анализ результатов A/B тестировния SkyLenta](https://github.com/EgorLinev/StudyProjects/tree/main/SQL)
+- [A/B testing](#A/B-testing)
+  + [Анализ результатов A/B тестировния SkyLenta](#анализ-результатов-A/B-тестировния-SkyLenta)
 - [Контактная информация](#контактная-информация)
 
  
